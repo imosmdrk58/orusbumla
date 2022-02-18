@@ -1,1 +1,1 @@
-# orusbumla
+Discord Sunucumuz discord.gg/theaspendos yazarak bana ulasa bılırsınız
