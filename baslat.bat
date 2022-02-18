@@ -1,8 +1,6 @@
-echo off
-color a
-title Buttonxd
+@echo off
 cls
+title Pusha v12 Yetkili Başvuru Altyapı
 :a
-node index.js
+node pusha.js
 goto a
-pause
